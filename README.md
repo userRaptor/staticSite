@@ -1,0 +1,2 @@
+# staticSite
+Einfache statische Webseite
